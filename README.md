@@ -31,7 +31,7 @@ I guess my personal niche of expertise is <ins>relentless innovation</ins>. Whil
 
 ---
 
-##### 🔑  Key Achievements
+### 🔑  Key Achievements
 
 Some of my personal professional highlights include that I ...<br>
 &nbsp;&nbsp;&nbsp;&nbsp;... bootstrapped a cross functional team & led full the full product lifecycle, <ins>launching a new product in < 6 months with ~ 30% WAU</ins><br>
