@@ -1,8 +1,8 @@
 # _Just ~do~ nail it_ 👌 
 
-### TL;DR
+### ℹ️ TL;DR
 
-🎁 Product Engineering Manager 👨‍🔬 Ex Data-Scientist 📺 Online Tutor 🎉 Open Source Enthusiast 🐣 Father
+// Product Engineering Manager // Ex Data-Scientist // Online Tutor // Open Source Enthusiast // Father //
 
 ---
 
