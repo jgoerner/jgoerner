@@ -34,6 +34,6 @@ I guess my personal niche of expertise is <ins>relentless innovation</ins>. Whil
 ### 🔑  Key Achievements
 
 Some of my personal professional highlights include that I ...<br>
-&nbsp;&nbsp;&nbsp;&nbsp;... bootstrapped a cross functional team & led full the full product lifecycle, <ins>launching a new product in < 6 months with ~ 30% WAU</ins><br>
+&nbsp;&nbsp;&nbsp;&nbsp;... bootstrapped a x-functional team & led full the full product lifecycle, <ins>launching a new product in < 6 months with ~ 30% WAU</ins><br>
 &nbsp;&nbsp;&nbsp;&nbsp;... co-authored a patent for [keyless car access](https://www.bmw.com/en/innovation/bmw-digital-key-iphone-as-secure-bmw-car-key.html) - <ins>deployed in global BMW fleet since mid 2020</ins><br>
 &nbsp;&nbsp;&nbsp;&nbsp;... authored the MOOC [Beyond Jupyter Notebooks](https://www.udemy.com/course/beyond-jupyter-notebooks/) - as of today <ins>~ 3.000 students and 4.9 ⭐️ rating</ins>
