@@ -2,7 +2,7 @@
 
 ### ℹ️ TL;DR
 
-// Product Engineering Manager // Ex Data-Scientist // Online Tutor // Open Source Enthusiast // Father //
+// Staff Product Engineer // Ex Data-Scientist // Online Tutor // Open Source Enthusiast // Father //
 
 ---
 
