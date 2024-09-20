@@ -2,7 +2,7 @@
 
 ### ℹ️ TL;DR
 
-// Staff Product Engineer // Ex Data-Scientist // Online Tutor // Open Source Enthusiast // Father //
+// Product Engineer // Ex Data-Scientist // Online Tutor // Open Source Enthusiast // Father //
 
 ---
 
